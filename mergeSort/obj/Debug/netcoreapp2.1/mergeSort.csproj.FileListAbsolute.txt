@@ -1,0 +1,11 @@
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\obj\Debug\netcoreapp2.1\mergeSort.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\obj\Debug\netcoreapp2.1\mergeSort.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\obj\Debug\netcoreapp2.1\mergeSort.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\obj\Debug\netcoreapp2.1\mergeSort.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\bin\Debug\netcoreapp2.1\mergeSort.deps.json
+C:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\bin\Debug\netcoreapp2.1\mergeSort.runtimeconfig.json
+C:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\bin\Debug\netcoreapp2.1\mergeSort.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\bin\Debug\netcoreapp2.1\mergeSort.dll
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\bin\Debug\netcoreapp2.1\mergeSort.pdb
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\obj\Debug\netcoreapp2.1\mergeSort.dll
+c:\Users\Danny\Desktop\codingPractice\Sorts\mergeSort\obj\Debug\netcoreapp2.1\mergeSort.pdb
