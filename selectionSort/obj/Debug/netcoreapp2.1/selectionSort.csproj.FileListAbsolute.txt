@@ -1,0 +1,11 @@
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\obj\Debug\netcoreapp2.1\selectionSort.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\obj\Debug\netcoreapp2.1\selectionSort.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\obj\Debug\netcoreapp2.1\selectionSort.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\obj\Debug\netcoreapp2.1\selectionSort.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\bin\Debug\netcoreapp2.1\selectionSort.deps.json
+C:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\bin\Debug\netcoreapp2.1\selectionSort.runtimeconfig.json
+C:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\bin\Debug\netcoreapp2.1\selectionSort.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\bin\Debug\netcoreapp2.1\selectionSort.dll
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\bin\Debug\netcoreapp2.1\selectionSort.pdb
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\obj\Debug\netcoreapp2.1\selectionSort.dll
+c:\Users\Danny\Desktop\codingPractice\Sorts\selectionSort\obj\Debug\netcoreapp2.1\selectionSort.pdb

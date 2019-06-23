@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\bin\Debug\netcoreapp2.1\insertSort.deps.json
+C:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\bin\Debug\netcoreapp2.1\insertSort.runtimeconfig.json
+C:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\bin\Debug\netcoreapp2.1\insertSort.runtimeconfig.dev.json
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\bin\Debug\netcoreapp2.1\insertSort.dll
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\bin\Debug\netcoreapp2.1\insertSort.pdb
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\obj\Debug\netcoreapp2.1\insertSort.csprojAssemblyReference.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\obj\Debug\netcoreapp2.1\insertSort.csproj.CoreCompileInputs.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\obj\Debug\netcoreapp2.1\insertSort.AssemblyInfoInputs.cache
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\obj\Debug\netcoreapp2.1\insertSort.AssemblyInfo.cs
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\obj\Debug\netcoreapp2.1\insertSort.dll
+c:\Users\Danny\Desktop\codingPractice\Sorts\insertSort\obj\Debug\netcoreapp2.1\insertSort.pdb
